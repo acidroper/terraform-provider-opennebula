@@ -4,6 +4,10 @@ FEATURES:
 
 * resources/opennebula_virtual_network: allow to modify the user owning the resource (#529)
 
+BUG FIXES:
+
+* resources/opennebula_virtual_router_instance: fix re-contextualization (#537)
+
 # 1.4.0 (January 22nd, 2024)
 
 FEATURES:
